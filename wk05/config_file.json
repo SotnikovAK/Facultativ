@@ -1,0 +1,12 @@
+{
+    "entries": [
+        {
+            "model": "Euler",
+            "omega": 2,
+            "initial coordinate": 6400000,
+            "initial velocity": 0,
+            "modeling interspace": 5.0,
+            "step of modeling": 0.05
+        }
+    ]
+}
